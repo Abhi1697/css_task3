@@ -3,4 +3,4 @@ The idea of building this project is to replicate the exact design of a web-page
 # Screenshot 1
 ![Alt text](Images/Sc1.png?raw=true "Picture 1")
 # Screenshot 2
-![Alt text](Images/Sc2.png?raw=true "Picture 2")
+![Alt text](Images/sc2.png?raw=true "Picture 2")
